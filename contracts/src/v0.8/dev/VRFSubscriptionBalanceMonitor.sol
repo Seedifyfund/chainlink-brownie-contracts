@@ -6,7 +6,7 @@ import "../shared/access/ConfirmedOwner.sol";
 import "../automation/interfaces/KeeperCompatibleInterface.sol";
 import "../interfaces/VRFCoordinatorV2Interface.sol";
 import "../shared/interfaces/LinkTokenInterface.sol";
-import "@openzeppelin/contracts/security/Pausable.sol";
+import "openzeppelin-contracts/security/Pausable.sol";
 
 /**
  * @title The VRFSubscriptionBalanceMonitor contract.

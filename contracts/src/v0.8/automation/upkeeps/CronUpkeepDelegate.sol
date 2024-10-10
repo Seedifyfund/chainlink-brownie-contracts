@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.6;
 
-import "@openzeppelin/contracts/utils/structs/EnumerableSet.sol";
+import "openzeppelin-contracts/utils/structs/EnumerableSet.sol";
 import {Cron, Spec} from "../libraries/internal/Cron.sol";
 
 /**
